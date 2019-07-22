@@ -10,6 +10,8 @@ a {
   color: #888;
 }
 
+a:hover { color: yellow; }
+
 img {
   border-radius: 50%;
 }
